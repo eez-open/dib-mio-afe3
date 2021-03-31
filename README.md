@@ -12,6 +12,6 @@ The [EEZ DIB](https://github.com/eez-open/modular-psu) 4-channel Hi-voltage/Hi-c
 * Dimensions: 132 x 68.5 mm, 4-layer PCB
 
 
-### r3B1 prototype
+### r1B1 prototype
 
 ![prototype](Images/AFE1_prototype_r3B1.JPG)
