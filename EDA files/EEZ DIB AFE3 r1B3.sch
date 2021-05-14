@@ -10358,7 +10358,7 @@ This work is licensed under the &lt;i&gt;&lt;a href=https://www.tapr.org/OHL&gt;
 <part name="F4" library="EEZ_Lib1" deviceset="ZH32" device="" value="ZH32 (10A)"/>
 <part name="R32" library="EEZ_Lib1" deviceset="R-EU_4WIRE" device="2512" value="GMR100HTBFIR022"/>
 <part name="F5" library="EEZ_Lib1" deviceset="ZH32" device="" value="ZH32 (1.25A)"/>
-<part name="R30" library="rcl" deviceset="R-EU_" device="R1206" value="33R"/>
+<part name="R30" library="rcl" deviceset="R-EU_" device="R1206" value="20R"/>
 <part name="R33" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
 <part name="D6" library="EEZ_DIB" deviceset="DIODE" device="_SMA-NARROW" value="SA2M-E3/61T"/>
 <part name="D9" library="EEZ_DIB" deviceset="DIODE" device="_SMA-NARROW" value="SA2M-E3/61T"/>
@@ -12960,8 +12960,7 @@ Current mode: ±48 mA (gain x1), ±1.2 A (gain x2), ±10 A (gain x12)</text>
 <wire x1="149.86" y1="152.4" x2="149.86" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="121.92" x2="157.48" y2="121.92" width="0.1524" layer="91"/>
 <junction x="157.48" y="121.92"/>
-<wire x1="99.06" y1="157.48" x2="114.3" y2="157.48" width="0.1524" layer="91"/>
-<junction x="114.3" y="157.48"/>
+<wire x1="99.06" y1="157.48" x2="111.76" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="Q3" gate="A" pin="S"/>
 <junction x="121.92" y="157.48"/>
 <wire x1="160.02" y1="152.4" x2="149.86" y2="152.4" width="0.1524" layer="91"/>
@@ -12972,6 +12971,9 @@ Current mode: ±48 mA (gain x1), ±1.2 A (gain x2), ±10 A (gain x12)</text>
 <pinref part="ISEL1A_1" gate="B" pin="NO"/>
 <pinref part="ISEL1A_1" gate="C" pin="NO"/>
 <pinref part="IC7" gate="B" pin="S"/>
+<wire x1="114.3" y1="149.86" x2="111.76" y2="149.86" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="149.86" x2="111.76" y2="157.48" width="0.1524" layer="91"/>
+<junction x="114.3" y="149.86"/>
 </segment>
 </net>
 <net name="N$183" class="0">
