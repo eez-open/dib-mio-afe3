@@ -1,3 +1,12 @@
+### Ownership and License
+The contributors are listed in CONTRIB.TXT.
+
+Licenses | OSHWA UID
+--|--
+![osl](Images/osl.png) | [![OSHW-HR000009](Images/OSHW_UID_HR9.svg)](https://certification.oshwa.org/hr000009.html)
+
+### Overview
+
 The [EEZ DIB](https://github.com/eez-open/modular-psu) 4-channel Hi-voltage/Hi-current AFE for [MIO168](https://github.com/eez-open/dib-mio168) module with two isolated inputs for voltage and current measurements.
 
 ### Feature list
