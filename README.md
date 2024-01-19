@@ -22,6 +22,16 @@ The [EEZ DIB](https://github.com/eez-open/modular-psu) 4-channel Hi-voltage/Hi-c
 * Dimensions: 132 x 68.5 mm, 4-layer PCB
 
 
-### r1B1 prototype
+### r1B4 prototype 3D model
 
-![prototype](Images/AFE1_prototype_r3B1.JPG)
+![prototype](Images/AFE3_prototype_r1B4.jpg)
+
+### KiCad project (v7 or newer)
+
+* [AFE3 r1B4](https://github.com/eez-open/dib-mio-afe3/tree/master/EDA%20files/KiCad)
+
+All symbols, footprints and 3D models used in the project can be found in the [EEZ-DIB Library](https://github.com/eez-open/eez-kicad-libraries) plugin for KiCad.
+
+### Bill of materials
+
+* [Download](https://github.com/eez-open/dib-mio-afe3/tree/master/EDA%20files/KiCad/bom/ibom.html) as raw file _Interactive BOM_ (ibom.html) and open it locally in your browser.
