@@ -1,0 +1,12 @@
+### Footprint positions - created on nedjelja, 07. siječnja 2024. 19:37:16 CET ###
+### Printed by KiCad version 7.0.10-7.0.10~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                  PosX       PosY       Rot  Side
+IN1N1     PCB_TEST_TABSHIELD  Testhole_24_50mils   142.2400  -129.5400  180.0000  bottom
+IN1P1     PCB_TEST_TABSHIELD  Testhole_24_50mils   142.2400  -121.9200  180.0000  bottom
+IN2N1     PCB_TEST_TABSHIELD  Testhole_24_50mils   144.7800  -106.6800  180.0000  bottom
+IN2P1     PCB_TEST_TABSHIELD  Testhole_24_50mils   144.7800  -111.7600  180.0000  bottom
+X1        P125-2214A0BS230A1  P125-2214A0BS230A1   136.0000  -134.7536    0.0000  bottom
+X2        P125-2214A0BS230A1  P125-2214A0BS230A1   136.0000   -72.7136    0.0000  bottom
+## End
